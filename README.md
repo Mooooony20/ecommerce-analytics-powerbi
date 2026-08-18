@@ -11,14 +11,14 @@ The dashboard transforms e-commerce data into interactive business insights and 
 
 ## Project Objectives
 
-Analyze overall sales performance
-Monitor key business KPIs
-Analyze revenue and order trends
-Identify top-performing customers
-Identify top-performing products
-Analyze product categories
-Compare customer and product performance
-Create an interactive business intelligence dashboard
+- Analyze overall sales performance
+- Monitor key business KPIs
+- Analyze revenue and order trends
+- Identify top-performing customers
+- Identify top-performing products
+- Analyze product categories
+- Compare customer and product performance
+- Create an interactive business intelligence dashboard
 
 
 ## Dashboard
@@ -27,29 +27,29 @@ The Power BI report contains 8 analytical pages covering different areas of e-co
 
 Key analysis areas include:
 
-Sales Overview
-Revenue Analysis
-Order Analysis
-Customer Performance
-Product Performance
-Category Performance
-Top Customers
-Top Products
+- Sales Overview
+- Revenue Analysis
+- Order Analysis
+- Customer Performance
+- Product Performance
+- Category Performance
+- Top Customers
+- Top Products
 
 
 ## Key KPIs & Metrics
 
 The dashboard includes:
 
-Total Revenue
-Total Orders
-Average Order Value (AOV)
-Total Quantity Sold
-Revenue by Category
-Quantity Sold by Category
-Top 10 Customers by Revenue
-Top 10 Products by Revenue
-Top Products by Quantity Sold
+- Total Revenue
+- Total Orders
+- Average Order Value (AOV)
+- Total Quantity Sold
+- Revenue by Category
+- Quantity Sold by Category
+- Top 10 Customers by Revenue
+- Top 10 Products by Revenue
+- Top Products by Quantity Sold
 
 
 ## Data Analysis
@@ -58,9 +58,9 @@ The project uses SQL queries and analytical views to prepare and analyze the e-c
 
 The main analytical datasets include:
 
-Orders
-Customer Performance
-Product Performance
+- Orders
+- Customer Performance
+- Product Performance
 The SQL files used for the project are available in the SQL folder.
 
 
