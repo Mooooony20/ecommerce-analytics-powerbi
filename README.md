@@ -77,7 +77,7 @@ Data Visualization
 ecommerce-analytics-powerbi/
 │
 ├── README.md
-├── Ecommerce_Analytics_Dashboard.pbix
+├── Ecommerce_Analytics_Dashbord.pbix
 │
 ├── SQL/
 │ └── SQL analysis files
