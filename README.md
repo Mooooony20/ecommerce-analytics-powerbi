@@ -1,7 +1,7 @@
-E-commerce Analytics Dashboard
+# E-commerce Analytics Dashboard
 
 
-Project Overview
+## Project Overview
 
 This project is an interactive E-commerce Analytics Dashboard built with Power BI to analyze sales, customer, and product performance.
 
@@ -9,7 +9,7 @@ The dashboard transforms e-commerce data into interactive business insights and 
 
 
 
-Project Objectives
+## Project Objectives
 
 Analyze overall sales performance
 Monitor key business KPIs
@@ -21,7 +21,7 @@ Compare customer and product performance
 Create an interactive business intelligence dashboard
 
 
-Dashboard
+## Dashboard
 
 The Power BI report contains 8 analytical pages covering different areas of e-commerce performance.
 
@@ -37,7 +37,7 @@ Top Customers
 Top Products
 
 
-Key KPIs & Metrics
+## Key KPIs & Metrics
 
 The dashboard includes:
 
@@ -52,7 +52,7 @@ Top 10 Products by Revenue
 Top Products by Quantity Sold
 
 
-Data Analysis
+## Data Analysis
 
 The project uses SQL queries and analytical views to prepare and analyze the e-commerce data.
 
@@ -64,7 +64,7 @@ Product Performance
 The SQL files used for the project are available in the SQL folder.
 
 
-Tools & Technologies
+## Tools & Technologies
 
 SQL
 Microsoft Power BI
@@ -73,7 +73,7 @@ Data Modeling
 Data Visualization
 
 
-Project Structure
+## Project Structure
 ecommerce-analytics-powerbi/
 │
 ├── README.md
@@ -93,7 +93,7 @@ ecommerce-analytics-powerbi/
 └── Page8.png
 
 
-Dashboard Screensh
+## Dashboard Screensh
 Page1
 Page2
 Page3
@@ -104,21 +104,21 @@ Page7
 Page8
 
 
-Skills Demonstrated
+## Skills Demonstrated
 This project demonstrates practical skills in:
 
-SQL data analysis
-Power BI dashboard development
-DAX measures
-Data modeling
-Data visualization
-KPI development
-Customer performance analysis
-Product performance analysis
-Business-oriented data analysis
-Interactive reporting
+ -  SQL data analysis
+ -  Power BI dashboard development
+ -  DAX measures
+ -  Data modeling
+ -  Data visualization
+ -  KPI development
+ -  Customer performance analysis
+ -  Product performance analysis
+ -  Business-oriented data analysis
+ -  Interactive reporting
 
 
-Project Goal
+## Project Goal
 The goal of this project is to demonstrate how e-commerce data can be transformed using SQL and Power BI into an interactive business intelligence solution that supports sales, customer, and product performance analysis.
 
